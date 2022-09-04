@@ -1,3 +1,3 @@
-## Comprobo Open Source Projects
+## CGD Open Source Projects
 
-Open source projects licensed under MIT. See https://github.com/comprobo-ui for our client side projects.
+Open source projects licensed under MIT. See https://github.com/cgd-ui for our client side projects.
