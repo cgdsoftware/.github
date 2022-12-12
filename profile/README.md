@@ -13,7 +13,7 @@ priority in addressing your issues
 
 help with understanding the environment
 
-getting you to be proficient when developing on Enso
+getting you to be proficient when developing on our projects
 
 mentoring
 
