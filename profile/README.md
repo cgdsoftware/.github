@@ -1,4 +1,4 @@
-## CGD Projects
+## CGD Software
 
 Open source projects licensed under MIT. See https://github.com/cgd-ui for our client side projects.
 
