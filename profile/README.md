@@ -23,8 +23,6 @@ general advice & support on Laravel & Vue
 
 assistance on version upgrades
 
-up to 4 hours / month of remote desktop sessions and call conferences with your team
-
 direct communication via Slack during our office hours
 
 The support services are provided by a team of 4 members.
